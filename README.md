@@ -1,4 +1,4 @@
-# 🎵 Euralink V4
+# 🎵 Euralink
 
 <div align="center">
 
@@ -6,14 +6,14 @@
 
 **🏆 The Ultimate Lavalink Client for Node.js & Discord Bots**
 
-[![npm version](https://img.shields.io/npm/v/euralink.svg?style=for-the-badge&label=Latest%20Version&color=blue)](https://www.npmjs.com/package/euralink)
-[![Downloads](https://img.shields.io/npm/dm/euralink?style=for-the-badge&color=green)](https://www.npmjs.com/package/euralink)
-[![GitHub stars](https://img.shields.io/github/stars/euralink-team/euralink.svg?style=for-the-badge&logo=github)](https://github.com/euralink-team/euralink)
+[![npm version](https://img.shields.io/npm/v/euralink.svg?style=for-the-badge&label=Latest%20Version&color=blue)](https://www.npmjs.com/package/ryxu-xo-euralink)
+[![Downloads](https://img.shields.io/npm/dm/euralink?style=for-the-badge&color=green)](https://www.npmjs.com/package/ryxu-xo-euralink)
+[![GitHub stars](https://img.shields.io/github/stars/ryxu-xo/euralink.svg?style=for-the-badge&logo=github)](https://github.com/ryxu-xo/euralink)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?style=for-the-badge&logo=typescript)](build/index.d.ts)
-[![MIT License](https://img.shields.io/github/license/euralink-team/euralink?style=for-the-badge)](LICENSE)
+[![MIT License](https://img.shields.io/github/license/ryxu-xo/euralink?style=for-the-badge)](LICENSE)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/4Dmfd6yE7F)
-[![Documentation](https://img.shields.io/badge/Docs-View%20Documentation-brightgreen?style=for-the-badge)](https://euralink-website.vercel.app/)
+[![Documentation](https://img.shields.io/badge/Docs-View%20Documentation-brightgreen?style=for-the-badge)](https://euralink-v4-website.vercel.app/)
 
 *The most advanced, feature-rich, and performant lavalink client in existence*
 
@@ -834,7 +834,7 @@ Check out our enhanced example bot that demonstrates every V0.3.0 feature:
 - 🛡️ Health monitoring
 - 📊 Queue management
 
-See: [`example-enhanced.js`](https://github.com/euralink-team/euralink/blob/main/test/example-enhanced.js)
+See: [`example-enhanced.js`](https://github.com/ryxu-xo/euralink/blob/main/test/example-enhanced.js)
 
 ### Running Tests
 
@@ -907,9 +907,9 @@ Experience all V0.3.0 features in action with our official Discord bot:
 ### Community & Support
 
 - 💬 **Discord Server**: [Join for support & updates](https://discord.gg/4Dmfd6yE7F)
-- 📚 **Documentation**: [Complete guides & tutorials](https://euralink-website.vercel.app/)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/euralink-team/euralink/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/euralink-team/euralink/discussions)
+- 📚 **Documentation**: [Complete guides & tutorials](https://euralink-v4-website.vercel.app/)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/ryxu-xo/euralink/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/ryxu-xo/euralink/discussions)
 
 ---
 
@@ -920,7 +920,7 @@ We welcome contributions from the community! Whether it's bug fixes, new feature
 ### Development Setup
 
 ```bash
-git clone https://github.com/euralink-team/euralink.git
+git clone https://github.com/ryxu-xo/euralink.git
 cd euralink
 npm install
 npm run build
@@ -1002,7 +1002,7 @@ Euralink V4 isn't just a lavalink client—it's the foundation for the next gene
 
 **Ready to build the ultimate music bot?**
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-blue?style=for-the-badge&logo=rocket)](https://euralink-website.vercel.app/docs/getting-started)
+[![Get Started](https://img.shields.io/badge/Get%20Started-blue?style=for-the-badge&logo=rocket)](https://euralink-v4-website.vercel.app/docs/getting-started)
 [![Examples](https://img.shields.io/badge/View%20Examples-green?style=for-the-badge&logo=code)](example-enhanced.js)
 [![Community](https://img.shields.io/badge/Join%20Community-purple?style=for-the-badge&logo=discord)](https://discord.gg/4Dmfd6yE7F)
 

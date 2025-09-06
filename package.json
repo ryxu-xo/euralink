@@ -1,0 +1,58 @@
+{
+  "name": "euralink",
+  "description": "🎵 The most advanced, blazing-fast Lavalink client for Node.js with SponsorBlock, real-time lyrics, 60% less RAM usage, and the ultimate music bot experience.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
+  "author": "ryxu-xo",
+  "license": "MIT",
+  "keywords": [
+    "lavalink",
+    "music",
+    "discord",
+    "discordjs",
+    "discord.js",
+    "discordjs-lavalink",
+    "audio",
+    "euralink",
+    "performance",
+    "http2",
+    "optimized",
+    "sponsorblock",
+    "lyrics",
+    "lavalink-v4",
+    "music-bot",
+    "fast",
+    "advanced",
+    "filters",
+    "queue",
+    "autoplay",
+    "chapters",
+    "modern"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryxu-xo/euralink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryxu-xo/euralink/issues"
+  },
+  "homepage": "https://euralink-website.vercel.app/",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.15.29"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsdom": "^26.1.0",
+    "lrclib-api": "^2.0.0",
+    "tseep": "^1.3.1",
+    "undici": "^7.10.0",
+    "ws": "^8.18.3"
+  },
+  "version": "0.4.0"
+}

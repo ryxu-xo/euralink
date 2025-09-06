@@ -111,7 +111,7 @@ npm install euralink
 
 ```javascript
 const { Client, GatewayIntentBits, GatewayDispatchEvents } = require('discord.js');
-const { Euralink } = require('euralink');
+const { Euralink } = require('ryxu-xo-euralink');
 
 const client = new Client({
     intents: [
